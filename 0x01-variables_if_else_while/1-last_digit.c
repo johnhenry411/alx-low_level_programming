@@ -1,7 +1,12 @@
-[200~#include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
+#include<stdio.h>
 /* more headers goes there */
-
+/*
+ * main determines if the number is posotive or negative
+ *
+ * return always zero (success)
+ */
 /* betty style doc for function main goes there */
 int main(void)
 {
