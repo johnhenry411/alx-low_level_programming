@@ -1,9 +1,12 @@
-#include"main.h"
-/*
- * main uses putchatand outputs 
- *return:0
+#include "main.h"
+/**
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
  */
-int mai(void){
+
+int main(void)
+{
 _putchar('_');
 _putchar('p');
 _putchar('u');
